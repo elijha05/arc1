@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 private ArrayList<League> currentLeagues = new ArrayList<>();
 void main() {
-// adding comment
+// testing commit
     PRESET();
 
    Scanner scanner = new Scanner(System.in);
