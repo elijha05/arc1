@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 private ArrayList<League> currentLeagues = new ArrayList<>();
 void main() {
-// hello
+// added sorting
     PRESET();
 
    Scanner scanner = new Scanner(System.in);
